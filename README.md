@@ -6,7 +6,7 @@ A gender classification program using python and sklearn to predict a given set 
 2. numpy
 3. scipy
 
-#Usage
+# Usage
 
 Python demo.py
 
